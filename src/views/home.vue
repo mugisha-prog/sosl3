@@ -11,7 +11,7 @@
       <div class="max-w-3xl text-white text-center flex flex-col items-center">
 
         <span class="bg-green-600 px-5 py-2 rounded-full text-sm font-semibold tracking-wide inline-block mb-6">
-          Welcome to Tembera Rwanda
+          Welcome to Tembera  Rwanda
         </span>
 
         <h1 class="text-5xl md:text-7xl font-extrabold leading-tight mb-6">
@@ -27,13 +27,13 @@
         <!-- Buttons -->
         <div class="flex flex-wrap gap-5 justify-center">
           <button
-            class="bg-green-600 hover:bg-yellow-300 transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold shadow-xl text-white hover:text-black"
+            class="bg-green-600 hover:bg-white transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold shadow-xl text-white hover:text-black"
           >
             <router-link to="/places">Explore Places</router-link>
           </button>
 
           <button
-            class="border border-white hover:bg-yellow-300 hover:border-yellow-300 hover:text-black transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold text-white"
+            class="border border-white hover:bg-white hover:border-yellow-300 hover:text-black transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold text-white"
           >
             <router-link to="/about">Learn More</router-link>
           </button>
