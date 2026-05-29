@@ -20,7 +20,7 @@
 
           <h1 class="text-5xl font-bold text-gray-900 mt-6 leading-tight">
             Discover Rwanda With
-            <span class="text-green-700">Tembera U Rwanda</span>
+            <span class="text-green-700">Tembera  Rwanda</span>
           </h1>
 
           <p class="text-gray-600 text-lg leading-9 mt-6">

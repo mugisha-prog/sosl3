@@ -11,7 +11,7 @@
       <div class="max-w-3xl text-white text-center flex flex-col items-center">
 
         <span class="bg-green-600 px-5 py-2 rounded-full text-sm font-semibold tracking-wide inline-block mb-6">
-          Welcome to Tembera U Rwanda
+          Welcome to Tembera Rwanda
         </span>
 
         <h1 class="text-5xl md:text-7xl font-extrabold leading-tight mb-6">
