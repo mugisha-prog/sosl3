@@ -11,6 +11,7 @@ import east from '../views/east.vue'
 import west from '../views/west.vue'
 import videos from '../views/videos.vue'
 import photos from '../views/photos.vue'
+import places from '../views/places.vue'
 
 const routes = [{
     path: '/',
@@ -60,6 +61,10 @@ const routes = [{
     path: '/photos',
     name: 'photos',
     component: photos
+}, {
+    path: '/places',
+    name: 'places',
+    component: places
 },
 
 

@@ -28,13 +28,13 @@
           <button
             class="bg-green-600 hover:bg-yellow-300 transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold shadow-xl text-white hover:text-black"
           >
-            Explore Places
+            <router-link to="/places">Explore Places </router-link>
           </button>
 
           <button
-            class="border border-white hover:bg-yellow-300 hover:border-yellow-300 hover:text-black transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold text-white"
-          >
-            Learn More
+            class="border border-white hover:bg-yellow-300 hover:border-yellow-300 hover:text-black transition duration-300 px-8 py-4 rounded-2xl text-lg font-semibold text-white">
+           <router-link to="/about">Learn more </router-link>
+            
           </button>
         </div>
 

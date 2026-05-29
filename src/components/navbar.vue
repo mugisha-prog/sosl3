@@ -15,6 +15,7 @@
 <li> <router-link to="/" class="hover:text-yellow-300"> Home </router-link></li>
 <li> <router-link to="about" class="hover:text-yellow-300">About Us </router-link></li>
 <li ><router-link to="/services" class="hover:text-yellow-300">Service </router-link></li>
+<li ><router-link to="/places" class="hover:text-yellow-300">Places </router-link></li>
 
 <!--Gallery drop down-->
 <li class="relative group">
