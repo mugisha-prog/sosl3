@@ -1,7 +1,7 @@
 <template>
   <section
     class="min-h-screen bg-cover bg-center relative flex items-center"
-    style="background-image: url('/src/assets/image(13).jpeg');"
+    style="background-image: url('/image(13).jpeg');"
   >
     <!-- Dark Overlay -->
     <div class="absolute inset-0 bg-black/60"></div>
